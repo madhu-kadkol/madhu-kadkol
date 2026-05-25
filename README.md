@@ -38,7 +38,7 @@
   </a>
 
   <a href="https://instagram.com/mike.devlogs">
-    <img src="https://www.instagram.com/madhu.kadkol?igsh"/>
+    <img src="https://www.instagram.com/madhu.kadkol"/>
   </a>
 
   <a href="https://linkedin.com/in/midhun-nk">
