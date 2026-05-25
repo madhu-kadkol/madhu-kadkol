@@ -38,7 +38,7 @@
   </a>
 
   <a href="https://instagram.com/mike.devlogs">
-    <img src=["https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white"](https://www.instagram.com/madhu.kadkol?igsh=MWFmcjV5ZnU0aHM4OA==" />
+    <img src=https://www.instagram.com/madhu.kadkol?igsh />
   </a>
 
   <a href="https://linkedin.com/in/midhun-nk">
