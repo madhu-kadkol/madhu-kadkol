@@ -37,8 +37,8 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/mike.devlogs">
-    <img src="https://www.instagram.com/madhu.kadkol"/>
+  <a href="https://instagram.com/madhu.kadkol">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="https://linkedin.com/in/midhun-nk">
