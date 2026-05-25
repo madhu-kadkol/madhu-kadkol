@@ -69,7 +69,13 @@
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,matlab,npm,express,django,flutter,nextjs,tailwind,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,matlab,npm,express" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flutter,nextjs,tailwind,bootstrap" />
+</p>
 </td>
 
 
