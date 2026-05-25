@@ -91,7 +91,8 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,gcp,linux,postman,raspberrypi,powershell,eclipse," />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,gcp,
+    linux,postman,raspberrypi,powershell,eclipse," />
 </td>
 </tr>
 </table>
