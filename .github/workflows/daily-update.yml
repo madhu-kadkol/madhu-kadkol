@@ -1,34 +1,35 @@
-
-name: Daily Coding Update
+name: Daily Auto Push
 
 on:
   schedule:
-    - cron: "30 18 * * *"
+    - cron: '0 2 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 14 * * *'
+    - cron: '0 20 * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  generate:
+  daily-update:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.x"
+          python-version: '3.11'
 
-      - name: Generate daily update
-        run: python daily_update.py
+      - name: Generate Daily Content
+        run: python generate_daily.py
 
-      - name: Commit daily update
+      - name: Commit and Push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.email "akashhga@gmail.com"
+          git config --local user.name "akashhg2007"
           git add DAILY.md
-          git diff --cached --quiet || git commit -m "Update daily coding content"
+          git diff --staged --quiet || git commit -m "🔄 Update: $(date +'%Y-%m-%d %H:%M UTC')"
           git push
