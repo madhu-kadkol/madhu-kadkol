@@ -124,14 +124,43 @@
 
 ---
 
+---
+
 ## 📅 Daily Coding Updates
 
-Automated coding quotes, motivation, and daily challenges
-generated with Python and GitHub Actions.
+<div align="center">
 
-[📖 Read Today's Update](https://github.com/madhu-kadkol/daily-coding-updates/blob/main/DAILY.md)
+  <h3>💡 Quote of the Day</h3>
 
-[⚙️ View the Project](https://github.com/madhu-kadkol/daily-coding-updates)
+  <!-- DAILY-QUOTE-START -->
+  <p>
+    <b>Daily coding quote will be updated automatically!</b>
+  </p>
+  <!-- DAILY-QUOTE-END -->
+
+  <p>
+    🔥 Keep coding, keep growing!
+  </p>
+
+  <p>
+    <a href="https://github.com/madhu-kadkol/madhu-kadkol/blob/main/daily.md">
+      <img src="https://img.shields.io/badge/📖_Daily_Update-View_Now-blue?style=for-the-badge" />
+    </a>
+
+    <a href="https://github.com/madhu-kadkol/madhu-kadkol/blob/main/daily_update.py">
+      <img src="https://img.shields.io/badge/🐍_Python_Source-View_Code-green?style=for-the-badge&logo=python&logoColor=white" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Automated-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python" />
+  </p>
+
+</div>
+
+---
+
 
 
 ## ❤️ Support Me
