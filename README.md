@@ -145,10 +145,6 @@
     <a href="https://github.com/madhu-kadkol/madhu-kadkol/blob/main/daily.md">
       <img src="https://img.shields.io/badge/📖_Daily_Update-View_Now-blue?style=for-the-badge" />
     </a>
-
-    <a href="https://github.com/madhu-kadkol/madhu-kadkol/blob/main/daily_update.py">
-      <img src="https://img.shields.io/badge/🐍_Python_Source-View_Code-green?style=for-the-badge&logo=python&logoColor=white" />
-    </a>
   </p>
 
   <p>
