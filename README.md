@@ -131,26 +131,13 @@
 
   <h3>💡 Quote of the Day</h3>
 
-  <!-- DAILY-QUOTE-START -->
-  <p>
-    <b>Daily coding quote will be updated automatically!</b>
-  </p>
-  <!-- DAILY-QUOTE-END -->
+    WORK HARD PLAY HARD !!
+  
 
   <p>
     🔥 Keep coding, keep growing!
   </p>
 
-  <p>
-    <a href="https://github.com/madhu-kadkol/madhu-kadkol/blob/main/daily.md">
-      <img src="https://img.shields.io/badge/📖_Daily_Update-View_Now-blue?style=for-the-badge" />
-    </a>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Automated-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-    <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python" />
-  </p>
 
 </div>
 
