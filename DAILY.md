@@ -1,16 +1,16 @@
-# 📅 Daily Coding Update — November 16, 2026
+# 📅 Daily Coding Update — November 17, 2026
 
 ---
 
 ## 💡 Quote of the Day
 
-> The only way to learn a new programming language is by writing programs in it. — Dennis Ritchie
+> Programming isn't about what you know; it's about what you can figure out. — Chris Pine
 
 ---
 
 ## 🔥 Daily Motivation
 
-**Consistency is the key to success! 🌟**
+**Building the future, one commit at a time! 🔥**
 
 ---
 
@@ -18,9 +18,9 @@
 
 | Metric | Value |
 |---|---|
-| 📆 Day of Year | 320 |
-| 📅 Date | 2026-11-16 |
-| ⏰ Time | 23:10:11 UTC |
+| 📆 Day of Year | 321 |
+| 📅 Date | 2026-11-17 |
+| ⏰ Time | 02:42:00 UTC |
 | 🎯 Coding Streak | Keep it going! |
 
 ---
