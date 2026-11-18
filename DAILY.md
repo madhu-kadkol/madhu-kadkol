@@ -1,10 +1,10 @@
-# 📅 Daily Coding Update — November 17, 2026
+# 📅 Daily Coding Update — November 18, 2026
 
 ---
 
 ## 💡 Quote of the Day
 
-> First, solve the problem. Then, write the code. — John Johnson
+> Talk is cheap. Show me the code. — Linus Torvalds
 
 ---
 
@@ -18,9 +18,9 @@
 
 | Metric | Value |
 |---|---|
-| 📆 Day of Year | 321 |
-| 📅 Date | 2026-11-17 |
-| ⏰ Time | 21:58:35 UTC |
+| 📆 Day of Year | 322 |
+| 📅 Date | 2026-11-18 |
+| ⏰ Time | 01:57:58 UTC |
 | 🎯 Coding Streak | Keep it going! |
 
 ---
